@@ -1,4 +1,4 @@
-audiolm-pytorch==1.1.4
+audiolm-pytorch
 fairseq
 huggingface-hub
 sentencepiece
