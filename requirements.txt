@@ -3,5 +3,6 @@ huggingface-hub
 sentencepiece
 transformers
 encodec
+fairseq
 soundfile
 sox
